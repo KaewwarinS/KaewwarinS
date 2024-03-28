@@ -1,4 +1,5 @@
-- Hi, I’m Kaewwatin Samrit ![image](https://github.com/KaewwarinS/KaewwarinS/assets/149741821/6de25bbf-1347-4af8-9331-d2d80e5426ea)
+Hi, I’m Kaewwatin Samrit
+
 
 - 📫 How to reach me ... ---> kaewwarin.samrit@analog.com
 
