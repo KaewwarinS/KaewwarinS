@@ -1,5 +1,4 @@
-# Hi, I’m Kaewwatin Samrit
-
+# Hi, I’m KS
 
 - 📫 How to reach me ... ---> kaewwarin.samrit@analog.com
 
